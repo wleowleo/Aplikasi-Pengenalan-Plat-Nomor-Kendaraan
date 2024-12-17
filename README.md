@@ -64,7 +64,7 @@ pip install opencv-python pytesseract pillow
    Unduh atau clone kode program ke direktori lokal:
 
    ```bash
-   git clone https://github.com/wleowleo/pengenalan-plat-nomor.git
+   git clone https://github.com/wleowleo/aplikasi-pengenalan-plat-nomor.git
    cd pengenalan-plat-nomor
    ```
 
