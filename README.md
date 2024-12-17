@@ -72,7 +72,7 @@ pip install opencv-python pytesseract pillow
    Eksekusi file Python menggunakan perintah:
 
    ```bash
-   python main.py
+   python app.py
    ```
 
 3. **Gunakan Aplikasi**:
